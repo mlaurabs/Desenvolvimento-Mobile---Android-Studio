@@ -20,9 +20,5 @@
   - values --> definção de estilos e Strings
 - gradle scripts --> scipts de build e gestão de dependências
 
-## Front-end:
-- Android Jet-pack: é um conjunto de bibliotecas que encapsula uma série de práticas e bibliotecas recomendadas. Reduz o código.
-  - é composto por: Behavior(permissões, compartilhamento, controle) e Foundations(pacotes, compatibilidade), Architecture e UI
 
-
-***Obs:** são anotações da perspectiva de uma total inciante! Algo pode ter sido compreendido eqivocadamente ou não de forma plena.*
+***Obs:** são anotações da perspectiva de uma iniciante! Algo pode ter sido compreendido eqivocadamente ou não de forma plena.*
