@@ -6,7 +6,7 @@
 *ao instalar o Android Studio, esses itens são inclusos*
 
 - SDK Manager: possibilita o gerenciamento de pacotes por meio de ferramentas, APIs e outros componentes
-- AVD Manager: provê múltiplas possibilidades de emulação através de dispositivos virtuais. *Como um emulador de dispostivos virtuais, ele consome muita memória. Portanto, se você tiver um dispositivo físico e um cabo USB é mais recomendado que emule sua aplicação nele.*
+- AVD Manager: provê múltiplas possibilidades de emulação através de dispositivos virtuais. **Como um emulador de dispostivos virtuais, ele consome muita memória. Portanto, se você tiver um dispositivo físico e um cabo USB é mais recomendado que emule sua a1plicação nele.**
 
 
 ## Estrura de projetos do Android Studio:
