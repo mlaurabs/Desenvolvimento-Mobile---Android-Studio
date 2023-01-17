@@ -21,4 +21,4 @@
 - gradle scripts --> scipts de build e gestão de dependências
 
 
-***Obs:** são anotações da perspectiva de uma iniciante! Algo pode ter sido compreendido eqivocadamente ou não de forma plena.*
+**Obs: são anotações da perspectiva de uma iniciante! Algo pode ter sido compreendido eqivocadamente ou não de forma plena.**
