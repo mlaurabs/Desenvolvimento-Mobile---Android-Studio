@@ -9,7 +9,7 @@
 - View Binding: facilita o acesso a componentes definidos no layout XML. Evita a repetição de código buscando o id de componentes através do métdodo *findViewById*.
   - Como utilizar o View Binding?
   <br>
-    Em *Gradle Scripts* acesse *build.gradle / app level* na classe Android e adicione o seguinte trecho de        código:
+    Em *Gradle Scripts* acesse *build.gradle / app level* na classe Android e adicione o seguinte trecho de código:
     <br>
     Exemplo:
    
@@ -32,6 +32,9 @@
 - *android:layout_height=”wrap_content”* --> o tamanho do card se adapta ao seu conteúdo.
 - *android:text* --> atribui um valor direto a um text view. Não é recomendável usar quando conteúdo do text view irá variar de acordo com uma API, por exemplo.
 - *tools:text* --> não atribui diretamente um valor ao componente textview, porém deixa um valor padrão(entrada do dev) para facilitar a visualização. É o mais recomendável a ser utilizado.
+
+
+**Obs: são anotações da perspectiva de uma iniciante! Algo pode ter sido compreendido eqivocadamente ou não de forma plena.**
 
 
  
