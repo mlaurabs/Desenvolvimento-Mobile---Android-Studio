@@ -21,4 +21,18 @@
       }
     } 
     ```
+- O id de um componente em xml: android:id="@+id/**nome**"
+- Material design: é um sistema de design criado pelo google que engloba UI e UX para padronizar designs.
+
+## Explorando o xml...
+- Constraint layout: flexibiliza as posições do componentes na tela.
+- Swipe refresh: quando o usuário rolar para baixo a tela, ele irá carregar novamente, atualizando seu conteúdo.
+- RecyclerView: equivalente a um list view. Por exemplo: a cada atualização de uma tela, os antigos dados são mantidos e adicionados novos também.
+- Card View: visualização de dados em cards.
+- *android:layout_height=”wrap_content”* --> o tamanho do card se adapta ao seu conteúdo.
+- *android:text* --> atribui um valor direto a um text view. Não é recomendável usar quando conteúdo do text view irá variar de acordo com uma API, por exemplo.
+- *tools:text* --> não atribui diretamente um valor ao componente textview, porém deixa um valor padrão(entrada do dev) para facilitar a visualização. É o mais recomendável a ser utilizado.
+
+
+ 
     
