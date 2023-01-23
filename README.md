@@ -10,6 +10,7 @@ Neste repositório serão alocadas minhas anotações acerca de desenvolvimento 
 <div>
 <img align="center" height="80" width="80" src="https://hermes.digitalinnovation.one/courses/badge/1f0ce2a0-2254-493b-8795-98ad9ef15251.png" >
 <img align="center" height="80" width="80" src="https://hermes.digitalinnovation.one/courses/badge/b6b7061d-5c28-4b13-ac13-af766e5dcdf1.png" >
+<img align="center" height="80" width="80" src="https://hermes.digitalinnovation.one/courses/badge/6bf6c876-e04d-4e93-8e3c-f8709d2452cd.png" >
 </div>
 </body>
 </html>
