@@ -6,8 +6,10 @@
   - Popule o arquivo com os dados que quiser (No caso do curso da DIO, usamos dados sobre partidas de futebol);
   - Configurando o git hub pages: vá em configurações do repositório em Pages, depois, em GitHub Pages, coloque a branch do arquivo json;
   - Salve essa configuração.
-<br>
-- Retrofit:  biblioteca para consumo mais simples de api’s.
-- Glide: gerenciador de mídia, abstrai o carregamento de imagens até o controle de cache das mesmas e facilita a manipulação de imagens no app.
 
+- Retrofit:  biblioteca para consumo mais simples de api’s.
+- Glide: gerenciador de mídia, abstrai o carregamento de imagens até o controle de cache das mesmas e facilita a manipulação de imagens no app.  
+
+
+**Obs: são anotações da perspectiva de uma iniciante! Algo pode ter sido compreendido eqivocadamente ou não de forma plena.**
 
