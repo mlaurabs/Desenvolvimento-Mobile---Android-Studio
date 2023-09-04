@@ -1,6 +1,6 @@
 ## Preparando o ambiente...
-- JDK (Java Developmente Kit)
-- Android SDK (Software Development Kit)
+- JDK (Java Developmente Kit): Para criar applets e aplicações Java, você precisa de ferramentas de desenvolvimento como o JDK. O JDK inclui o Java Runtime Environment, o compilador Java e as APIs Java. 
+- Android SDK (Software Development Kit): O Kit de Desenvolvimento de Software parta Android permite aos desenvolvedores criarem aplicativos para a plataforma Android de forma nativa. O Android SDK inclui projetos de exemplo com código-fonte, ferramentas de desenvolvimento, emuladores e bibliotecas necessárias para criar os aplicativos Android.
 - IDE (Integrated Development Environment)
   - Android Studio (Gradle)
 *ao instalar o Android Studio, esses itens são inclusos*
